@@ -1,0 +1,112 @@
+{
+  "Users": [
+    {
+      "Name": "mashmosha",
+      "img": "/Imgs/purple.jpg",
+      "id": "mashmosha@netflix",
+      "password": "netflix2023"
+    },
+    {
+      "Name": "bodbod",
+      "img": "/Imgs/bird.jpg",
+      "id": "bodbod@netflix",
+      "password": "netflix2023"
+    },
+    {
+      "Name": "Lolly",
+      "img": "/Imgs/mister_red.jpg",
+      "id": "lolly@netflix",
+      "password": "netflix2023"
+    },
+    {
+      "Name": "3amora",
+      "img": "/Imgs/Panda.jpg",
+      "id": "3amora@netflix",
+      "password": "netflix"
+    }
+  ],
+  "Avatars": [
+    {
+      "img": "/Imgs/Panda.jpg",
+      "id": "1"
+    },
+    {
+      "img": "/Imgs/bird.jpg",
+      "id": "2"
+    },
+    {
+      "img": "/Imgs/purple.jpg",
+      "id": "3"
+    },
+    {
+      "img": "/Imgs/mister_red.jpg",
+      "id": "4"
+    }
+  ],
+  "Movies": [
+    {
+      "img": "/Imgs/Movies/ambulance.jpg",
+      "id": "1"
+    },
+    {
+      "img": "/Imgs/Movies/batman.jpg",
+      "id": "2"
+    },
+    {
+      "img": "/Imgs/Movies/dunkirk.jpg",
+      "id": "3"
+    },
+    {
+      "img": "/Imgs/Movies/et.jpg",
+      "id": "4"
+    },
+    {
+      "img": "/Imgs/Movies/glass.jpg",
+      "id": "5"
+    },
+    {
+      "img": "/Imgs/Movies/home.jpg",
+      "id": "6"
+    },
+    {
+      "img": "/Imgs/Movies/joker.jpg",
+      "id": "7"
+    },
+    {
+      "img": "/Imgs/Movies/kill.jpg",
+      "id": "8"
+    },
+    {
+      "img": "/Imgs/Movies/no-time.jpg",
+      "id": "9"
+    },
+    {
+      "img": "/Imgs/Movies/once.jpg",
+      "id": "10"
+    },
+    {
+      "img": "/Imgs/Movies/park.jpg",
+      "id": "11"
+    },
+    {
+      "img": "/Imgs/Movies/pulp.jpg",
+      "id": "12"
+    },
+    {
+      "img": "/Imgs/Movies/seven.jpg",
+      "id": "13"
+    },
+    {
+      "img": "/Imgs/Movies/titanic.jpg",
+      "id": "14"
+    },
+    {
+      "img": "/Imgs/Movies/up.jpg",
+      "id": "15"
+    },
+    {
+      "img": "/Imgs/Movies/war.jpg",
+      "id": "16"
+    }
+  ]
+}
